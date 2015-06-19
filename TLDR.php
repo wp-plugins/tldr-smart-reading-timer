@@ -14,7 +14,7 @@ Text Domain: tldr
 
 
 require_once(plugin_dir_path(__FILE__) . 'class.php'); // import class
-require_once(plugin_dir_path(__FILE__) . 'filters.php'); // import filters
+require_once(plugin_dir_path(__FILE__) . 'filters.php'); // import filters for non-supportive themes
 
 require_once(plugin_dir_path(__FILE__) . 'dashboard.php'); // import dashboard settings
 

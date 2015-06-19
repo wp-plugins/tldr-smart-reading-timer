@@ -8,11 +8,12 @@
 */
 class TLDR
 {
+    /*** Defaults ***/
 	private static 	$reading_speed = 170, // Words per minute
 					$image_staring_time = 0.1, /* 2 sec */ // The time it takes you to look at an image (mins)
 					$format = "(%% min. read)", // The format of the text
-					$force_title = "no",
-					$force_date = "no";
+					$force_title = "no", // Forcing minutes to title
+					$force_date = "no"; // Forcing minutes to fate
 
 
 	
