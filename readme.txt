@@ -1,5 +1,5 @@
 === TL;DR - Smart Reading Timer ===
-Contributors: kinging123
+Contributors: kinging
 Requires at least: 3
 Tested up to: 4.2.2
 Stable tag: trunk
