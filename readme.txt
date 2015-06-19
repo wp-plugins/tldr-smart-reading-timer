@@ -14,6 +14,12 @@ This plugin is smarter than most reading timers, because it takes into account t
 
 This plugin can work on any theme but it works best on themes that support TL;DR.
 
+
+== Screenshots ==
+1. (example) the plugin's result
+2. The plugin settings page
+
+
 == Installation ==
 After the usual installation, you'll probably need to go to the settings and check one of the "force ..." checkboxes. This is to make sure your visitors cn see the minutes count even if your theme wasn't built to support TL;DR.
 
@@ -22,8 +28,3 @@ I installed the plugin but I can't see the minutes on the website. Why?
 ----
 A: Go to the settings page and check one of the "force .." checkboxes. You can choose where to show the text - after the title or the date (more to come).
 
-
-
-== Screenshots ==
-1. (example) the plugin's result
-2. The plugin settings page
